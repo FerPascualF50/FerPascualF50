@@ -1,4 +1,4 @@
-
+![Image text](https://github.com/FerPascualF50/FerPascualF50/blob/main/Img/2.png)
 ### Hola 👋, Mundo, soy Fer Pascual 
 #### Full Stack Web Developer en MERN
 ![Full Stack Web Developer en MERN]( Por el moemnto no se puede visualizar ya que esta en pleno porceso de construccion)
